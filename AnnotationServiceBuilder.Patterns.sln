@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnotationServiceBuilder.Patterns", "AnnotationServiceBuilder.Patterns\AnnotationServiceBuilder.Patterns.csproj", "{7E129655-51CB-4470-9400-51B39F2E941E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E129655-51CB-4470-9400-51B39F2E941E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E129655-51CB-4470-9400-51B39F2E941E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E129655-51CB-4470-9400-51B39F2E941E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E129655-51CB-4470-9400-51B39F2E941E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFD8FA0-FBC5-4CFE-8FCF-9683011A9847}
+	EndGlobalSection
+EndGlobal
