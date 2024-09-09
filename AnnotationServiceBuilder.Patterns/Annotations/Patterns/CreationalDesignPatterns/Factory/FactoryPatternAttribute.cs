@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using System;
 
-namespace AnnotationServiceBuilder.Annotations.Patterns.CreationalDesignPatterns.Factory
+namespace AnnotationServiceBuilder.Patterns.Annotations.Patterns.CreationalDesignPatterns.Factory
 {
     /// <summary>
     /// Attribute used to mark a class as a factory that follows the Factory Design Pattern.

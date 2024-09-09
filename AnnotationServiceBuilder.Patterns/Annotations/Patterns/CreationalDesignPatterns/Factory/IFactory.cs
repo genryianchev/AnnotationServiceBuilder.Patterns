@@ -1,4 +1,4 @@
-﻿namespace AnnotationServiceBuilder.Annotations.Patterns.CreationalDesignPatterns.Factory
+﻿namespace AnnotationServiceBuilder.Patterns.Annotations.Patterns.CreationalDesignPatterns.Factory
 {
     /// <summary>
     /// Defines a factory interface for creating instances of type <typeparamref name="T"/>.

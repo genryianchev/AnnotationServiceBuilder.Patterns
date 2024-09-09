@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace AnnotationServiceBuilder.Annotations.Systems.Utilities
+namespace AnnotationServiceBuilder.Patterns.Annotations.Systems.Utilities
 {
     public static class TypeListCache
     {

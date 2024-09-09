@@ -1,5 +1,5 @@
 
-# ![AnnotationServiceBuilder Icon](https://github.com/genryianchev/AnnotationServiceBuilder/raw/main/AnnotationServiceBuilder/icon.png) AnnotationServiceBuilder.Patterns
+# AnnotationServiceBuilder.Patterns
 
 **AnnotationServiceBuilder.Patterns** is a library that provides support for implementing common design patterns in .NET applications using custom annotations. This library is part of the [AnnotationServiceBuilder](https://github.com/genryianchev/AnnotationServiceBuilder) ecosystem and focuses on facilitating the use of design patterns such as Factory via annotation-based service registration.
 
@@ -94,10 +94,6 @@ If you'd like to contribute to **AnnotationServiceBuilder.Patterns**, feel free 
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-
 
 
 

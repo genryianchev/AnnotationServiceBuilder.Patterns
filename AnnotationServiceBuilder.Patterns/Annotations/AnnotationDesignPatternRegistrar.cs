@@ -1,19 +1,20 @@
-﻿using AnnotationServiceBuilder.Annotations.Patterns.CreationalDesignPatterns.Factory;
-using AnnotationServiceBuilder.Annotations.Systems.Helpers;
-using AnnotationServiceBuilder.Annotations.Systems.Utilities;
+﻿
+using AnnotationServiceBuilder.Patterns.Annotations.Patterns.CreationalDesignPatterns.Factory;
+using AnnotationServiceBuilder.Patterns.Annotations.Systems.Helpers;
+using AnnotationServiceBuilder.Patterns.Annotations.Systems.Utilities;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Reflection;
 
-namespace AnnotationServiceBuilder.Annotations
+namespace AnnotationServiceBuilder.Patterns.Annotations
 {
     /// <summary>
     /// Provides methods to register services that follow the Factory Design Pattern in the Dependency Injection (DI) container.
     /// This static class helps to register and manage services marked with the such <see cref="FactoryPatternAttribute"/>.
     /// </summary>
-    public static class AnnotationPatternRegistrar
+    public static class AnnotationDesignPatternRegistrar
     {
         /// <summary>
         /// Initializes the static class by caching the types from the specified assembly.

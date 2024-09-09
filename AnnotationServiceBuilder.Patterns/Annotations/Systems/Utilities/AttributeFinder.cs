@@ -1,6 +1,9 @@
-﻿using AnnotationServiceBuilder.Annotations.Patterns.CreationalDesignPatterns.Factory;
+﻿
+using AnnotationServiceBuilder.Patterns.Annotations.Patterns.CreationalDesignPatterns.Factory;
+using System;
+using System.Collections.Generic;
 
-namespace AnnotationServiceBuilder.Annotations.Systems.Utilities
+namespace AnnotationServiceBuilder.Patterns.Annotations.Systems.Utilities
 {
     public static class AttributeFinder
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AnnotationServiceBuilder.Annotations.Systems.Helpers
+namespace AnnotationServiceBuilder.Patterns.Annotations.Systems.Helpers
 {
     public static class ReflectionHelpers
     {
